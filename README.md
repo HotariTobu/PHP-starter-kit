@@ -14,8 +14,9 @@ Also MySQL and phpMyAdmin, Xdebug are available.
 
 ## Usage
 
-1. Run `docker-compose up`
-2. Access [localhost:8000](http://localhost:8000/)
+1. Run `cp .env.example .env`
+2. Run `docker-compose up`
+3. Access [localhost:8000](http://localhost:8000/) or [localhost:4000](http://localhost:4000/)
 
 ## License
 
